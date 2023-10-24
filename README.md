@@ -1,1 +1,1 @@
-```KEY=*your_private)key* npm run start``` to start the script
+```KEY=*your_private_key* npm run start``` to start the script
